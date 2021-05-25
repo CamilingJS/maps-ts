@@ -1,4 +1,3 @@
-//Generating random user 
 import faker from 'faker'
 
 export class User {
