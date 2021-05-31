@@ -138,6 +138,10 @@ function () {
     });
   }
 
+  CustomMap.prototype.addUserMarker = function (user) {};
+
+  CustomMap.prototype.addCompanyMarker = function (company) {};
+
   return CustomMap;
 }();
 
